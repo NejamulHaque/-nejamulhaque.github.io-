@@ -13,7 +13,7 @@ nejamulhaque
 codemaster
 
 Languages:
-c firebase Python express git tailwind
+c firebase 🐍Python express git tailwind
 
 Frameworks and Tools:
 react firebase firebase express git tailwind tailwind tailwind tailwind
