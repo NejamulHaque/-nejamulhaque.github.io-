@@ -1,4 +1,3 @@
-#nejamulhaque.github.io
 Hi 👋 My name is Nejamul Haque
 
 A Full-Stack developer | MERN Stack
